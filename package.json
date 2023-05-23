@@ -1,0 +1,14 @@
+{
+  "name": "tugas-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "mulai": "node soal-1.js&&node soal-2.js&& echo Berhasil",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ali Hanafiah",
+  "type": "module",
+  "license": "MIT"
+}
